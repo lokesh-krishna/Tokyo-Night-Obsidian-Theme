@@ -4,7 +4,7 @@ A dark theme for [Obsidian](https://obsidian.md/)
 
 ## Install
 1. Download obsidian.css to your Obsidian vault folder.
-2. In Obsidian, click Settings->Plugins and turn on "Custom CSS".
+2. In Obsidian, click ```Settings->Plugins``` and turn on "Custom CSS".
 3. There is no step 3! Enjoy!
 
 ## License
