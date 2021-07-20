@@ -144,7 +144,7 @@
     --interactive-normal: var(--background-primary);
 
     --text-muted: #cfc9c2;
-    --text-selection: var(--blockquote-color);
+    --text-selection: var(--background-secondary);
   }
 
 
