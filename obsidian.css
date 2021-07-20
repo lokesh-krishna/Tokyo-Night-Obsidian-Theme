@@ -144,6 +144,7 @@
     --interactive-normal: var(--background-primary);
 
     --text-muted: #cfc9c2;
+    --text-selection: var(--blockquote-color);
   }
 
 
@@ -263,3 +264,14 @@
     color: var(--accent-color);
   }
 
+  /*Ol and li elements padding*/
+
+  ol {
+    padding-inline-start: 20px;
+  }
+
+  ul {
+    padding-inline-start: 20px;
+  }
+
+ 
