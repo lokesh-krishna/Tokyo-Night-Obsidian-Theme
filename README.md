@@ -12,4 +12,4 @@ I don't really care what happens to this theme, so I put it under [The Unlicense
 
 ## Version
 
-22/07/2021 - Rev. 2.0 - All been updated
+22/07/2021 - Rev. 2.0 - All been updated now
