@@ -9,3 +9,7 @@ A dark theme for [Obsidian](https://obsidian.md/)
 
 ## License
 I don't really care what happens to this theme, so I put it under [The Unlicense](./LICENSE) and set it free!
+
+## Version
+
+22/07/2021 - Rev. 2.0 - All been updated
